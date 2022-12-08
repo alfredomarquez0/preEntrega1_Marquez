@@ -1,5 +1,5 @@
-alert("Bienvenido a Deli cookies") 
-let nombre = prompt("para comenzar tu pedido, ingresa tu nombre");
+alert("Bienvenido a Deli Cookies") 
+let nombre = prompt("Para comenzar tu pedido, ingresa tu nombre");
 alert("Como va? " + nombre + ", comencemos!")
 let entrega= prompt ("Ingrese \n 1 si retira en tienda \n 2 si es delivery");
 const galletaClasica = 300;
